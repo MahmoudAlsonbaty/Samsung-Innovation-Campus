@@ -1,0 +1,1 @@
+This Python script is used to create an animation of the DHT11 readings and save it as a GIF and PNG file
