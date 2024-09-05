@@ -1,5 +1,3 @@
-const { log } = require('console');
-const fs = require('node:fs');
 const  { readFile } = require("fs/promises")
 const fsp = require('node:fs/promises');
 const path = require('path');
